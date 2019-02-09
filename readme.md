@@ -1,5 +1,5 @@
 git is a good tool
-tt
+tt bug
 wrong
 dev
 i and you
